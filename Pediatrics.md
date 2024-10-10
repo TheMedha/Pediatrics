@@ -1,12 +1,50 @@
-# $${\color{#005156}{\textbf{\Huge{P Æ D I A T R I}}}}$$
+# $${\color{#005156}{\textbf{\Huge{P Æ D I A T R I S K  U N D E R S Ø G E L S E}}}}$$
 
 <details>
 <summary><b>Indholdsfortegnelse</b></summary>
 
-- <i>Vækst
-- Nyfødte</i>
+- <i>Anamnese
+- Vækst
+- Klinisk US</i>
 </details>
 <br>
+
+<details>
+<summary>$${\color{#27bec4}\textbf{Anamnese}}$$</summary>
+
+- Den pediatriske us starter allerede, når pt. og foreldre kommer inn i rommet
+- Man skal observere barnets utviklingsstadium og sammenligne dette med dets alder -  passer utviklingen med alderen? 
+- Det er også viktig å observere samspillet ml. foreldre og barn:
+	 - Fx kan det være diskrepans ml. barnets tilstand og foreldrenes bekymring, og dette må utforskes nærmere
+	 - Foreldres bekymring er alltid noe, som må tas på alvor
+- Barn begynner lett å kjede seg under en legetime, og det er viktig å ha leker tilgjengelig, som barnet kan underholdes med 
+- Observasjon av barnets lek gir også verdifull informasjon om barnets oppmerksomhet, utvikling og adferd
+- Aktuelt: 
+	 - Som alltid er det viktig å spørre detaljert om debut, symptomer, utvikling, forbedrende eller forverrende faktorer og tidligere lignende episoder
+	 - Det er dessuten viktig å spørre om infeksiøse utbrudd i fx barnehagen, kontakt med søsken eller andre, som også er smittet, utenlandsreiser, og om symptomer har vært så ille, at det har gått ut over barnehage eller skole
+- Graviditet og fødsel:
+	 - Var mor frisk under svangerskapet? Forekom komplikasjoner under fødselen? 
+	 - Hva var barnets gestasjonsalder og vekt/lengde? 
+	 - Forløp den neonatale perioden som normalt?
+- Utviklingshistorie:
+	 - Det må spørres om, når barnet nådde viktige milepæler som å lære å gå, snakke og gå på do
+	 - Adferd og skoleprestasjoner er også veldig relevant
+	 - Svarene må sammenlignes med søsken, og hva som er normal utvikling
+	 - Under dette punktet er det også viktig å vurdere barnets vekstkurve
+- Familie og sosialt:
+	 - Det kanskje viktigste punktet i dette avsnittet er, om det forekommer arvelige sykdommer i familien, eller om personer i slekten har fått barn med hverandre (konsangvinitet), som er vanlig i noen kulturer
+	 - Familiens struktur, hva foreldre jobber med, og om barnet går på skole/i barnehage må også kartlegges
+- Vegetative funksjoner:
+	 - Det er viktig å beskrive svarene, man får og ikke bare skrive ’normal’
+	 - Det må spørres om både avføring, vannlating, ernæring/appetitt og søvn
+	 - Hvordan og hvor ofte får barnet mat? Hvor mange ganger tømmes tarmen daglig? Hvor mange våte bleier har barnet? Har det forekommet vekttap eller vektøkning?
+- Allergier: 
+	 - Hos barn er det spesielt viktig å spørre om eksem på dette punktet
+	 - Ellers er det viktig også å spørre om legemiddelallergier
+
+</details>
+
+
 
 <details open>
 <summary>
@@ -35,7 +73,7 @@ Hvis barnet krydser ≥2 percentiler, bør det udredes nærmere (obs ***failure 
 <details><summary>Percentiler:</summary>
 
 - Mål på fordelingen af højde eller vækst i befolkningen
-- Ved 2,5-percentilen er 2,5% af børnene lavere/lettere end dette, og ved 50-percentilen er 50% af børnene over og under kurven
+- Ved 2,5-percentilen er 2,5% af børnene lavere/leftere end dette, og ved 50-percentilen er 50% af børnene over og under kurven
 - På det norske vækstkort er percentilerne baseret på målinger af et stort antal raske børn i alle aldersgrupper
 - Der findes specifikke kort for drenge og piger, og også specielle tabeller for subgrupper af børn, som har fx Downs, Turner eller Klinefelter syndrom
 - Man har opdaget, at norske børn generelt er tyndere og højdere end tidligere og også tyndere og højere end det internationale gennemsnit
@@ -45,15 +83,15 @@ Hvis barnet krydser ≥2 percentiler, bør det udredes nærmere (obs ***failure 
 
 <details><summary>Vægt:</summary>
 
-- De første dagene etter fødselen faller barnets vekt noe, som skyldes, at væsketapet er større enn inntaket
-- Normalt er vekttapet på 5-10% og er noe større for barn, som ammes, enn barn, som mottar kunstig ernæring
-- Barnets vekt er lavest ved nadir (bunnpunktet) 2-3 dager etter fødselen, og etter 7-10 dager er det tilbake på fødselsvekten igjen
-- Etter dette gjelder følgende tommelfingerregler for barnets vekt:
-	| Vekt | Alder |
+- De første dage efter fødslen falder barnets vægt noget, som skyldes, at væsketabet er større end indtaget
+- Normalt er vægttabet på 5-10% og er noget større for børn som ammes, end børn som modtager mælkeerstatning
+- Barnets vægt er lavest ved `nadir` (bundpunktet) 2-3 dage efter fødslen, og efter 7-10 dage er det tilbage på fødselsvægten igen
+- efter dette gælder følgende tommelfingerregler for barnets vægt:
+	| vægt | Alder |
 	| --- | ---|
-	| Dobling av fødselsvekten (7 kg) | 4-5 månder |
-	| Tredobling av fødselsvekten (10 kg)	| 1 år |
-	| Firedobling av fødselsvekten |	2-3 år |
+	| Dobling af fødselsvægten (7 kg) | 4-5 måneder |
+	| Tredobling af fødselsvægten (10 kg)	| 1 år |
+	| Firedobling af fødselsvægten |	2-3 år |
 	| 10 kg	| 1 år |
 	| 20 kg	| 5 år |
 	| 30 kg	| 10 år |
@@ -61,48 +99,72 @@ Hvis barnet krydser ≥2 percentiler, bør det udredes nærmere (obs ***failure 
 
 <details><summary>Længde/højde:</summary>
 
-- Fram til 2-årsalder registreres lengde, deretter registreres høyde
-- Følgende tommelfingerregler finnes for barnets høyde:
-	| Lengde/høyde |	Alder |
+- Frem til 2-årsalderen registreres længde, derefter registreres højde.
+- Følgende tommelfingerregler findes for barnets højde:
+	| Længde/højde |	Alder |
 	| --- | --- |
 	| 50 cm |	Nyfødt |
 	| 75 cm |	1 år|
 	|90 cm	|3 år|
 	|100 cm	|4 år|
-- Fra 4-årsalder til puberteten vil barnet vokse med 5-7,5 cm i året
-- Den raskeste lengdeveksten skjer i fosterlivet, i ukene før fødselen, og også i årene etter fødselen vokser barnet svært raskt med en fart på 8-12 cm per år
-- Deretter avtar farten, og barnet vokser med en fart på 5-6 cm/år eller lavere i barndommen, før puberteten setter inn
-- I denne fasen er det dessuten karakteristisk, at lemmene vokser raskere enn truncus, slik at størrelsesforholdet ml. disse endres
-- I puberteten vil det igjen skje en vekstspurt, som styres av gonadotropiner (FSH/LH) → stimulerer østrogen/androgener → stimulerer GH
-- Samtidig fører østrogener til, at epifyser ossificeres, og væksten stopper ved 15-årsalderen for piger og 17-årsalderen for drenge
+- Fra 4-årsalder til puberteten vil barnet vokse med 5-7,5 cm om året
+- Den hurtigste længdevækst sker i fosterlivet, i ugene før fødslen, og så i årene efter fødslen vokser barnet meget hurtigt med en fart på 8-12 cm per år
+- Derefter aftager farten, og barnet vokser med en hastighed på 5-6 cm/år eller lavere i barndommen, før puberteten sætter ind
+- I denne fase er det desuden karakteristisk, at lemmerne vokser hurtigere end truncus, så at størrelsesforholdet ml. disse ændres
+- I puberteten er der igen en vækstspurt, som styres af gonadotropiner (FSH/LH) → stimulerer østrogen/androgener → stimulerer GH
+- Samtidig fører østrogener til at epifyser ossificeres, og væksten stopper ved 15-årsalderen for piger og 17-årsalderen for drenge
 - Det første tegn på at puberteten er i gang, er oftest at piger begynder at udvikle bryster, og drenge får større testikler, som sker i 10/11-årsalderen
-- Vekstspurten inntreffer 1-3 år etter dette, og dette er den fasen etter fødselen, der lengdeveksten øker mest
-- Det er viktig å huske, at de individuelle variasjonene er store, og at gjentatte målinger, som viser en kurve, er mer verdifulle enn en enkelt måling av høyden
-- Andre målinger som også er av betydning er fx armspenn, hodeomkrets og sittehøyde
+- Vækstspurten indtræffer 1-3 år efter dette, og dette er fasen efter fødslen hvor længdevæksten øges mest
+- Vigtigt: Individuelle variationer er store. Gentagende målinger med en kurve er mere værdifulde end en enkelt højdemåling!
+- Andre målinger som også er af betydning er fx armspæn, hovedomkreds og siddehøjde
 </details>
 
 <details open><summary>Beregning af højde:</summary>
 
 - Det findes flere enkle formler for udregning af hvad barnets totale højde kommer til at blive:
-	 Total højde = $højde_{2-årsalder} x 2$
-	 Total højde (piger) = $\frac{højde_{mor} + højde_{far} – 13}{2} , (+/− 10 cm)$
-	 Total højde (drenge) = $\frac{højde_{mor} + højde_{far} + 13}{2} , (+/− 10 cm)$
+	 - Total højde = $højde_{2-årsalder} x 2$
+	 - Total højde (piger) = $\frac{højde_{mor} + højde_{far} – 13}{2} , (+/− 10 cm)$
+	 - Total højde (drenge) = $\frac{højde_{mor} + højde_{far} + 13}{2} , (+/− 10 cm)$
 - Desuden kan total højde beregnes ved at måle knoglealder, som gøres ved at tage et rtg af ve håndled og hånd, hvor knoglevævet og epifyser undersøges
 - På den måde kan barnets gjenværende vækstpotentiale beregnes
 - Imidlertid er standardafvigelserne store ved brug af denne metode
 </details>
 
+
+<details open><summary>Afvigende højde:</summary>
+
+- Skyldes i de fleste tilfælde, at barnet er < 2,5- eller > 97,5-percentilen, uden at det skyldes sygdom
+- Lav højde skyldes oftest genetik (lave forældre), eller at væksten bare er forsinket og indhentes igen senere
+- Hvis barnet krydser flere percentiler eller har progressiv aftagende vækst, kan henvisning til pædiater være nødvendig
+- Sygdomme som kan give lav vækst er:
+	- Fejlernæring, IBD, fødevareallergier, malabsorption
+	- Endokrine tilstande som forsinket pubertet, hypotyreose, GH-mangel, hypofysesvigt eller øget kortisol
+- Generelt skal barnet følge sin egen kurve fra fødslen af, og afvigelser fra denne kan være tegn på sygdom
 </details>
+
+</details>
+
+<details>
+<summary>$${\color{#0f8f94}\textbf{Anden udvikling}}$$</summary>
+
+</details>
+
+
 </details>
 
 <br>
 
 <details open>
-<summary>$${\color{#27bec4}\Huge{Nyfødte}}$$</summary>
+<summary>$${\color{#27bec4}\Huge{Klinisk undersøgelse}}$$</summary>
+
+<details>
+<summary>$${\color{#0f8f94}\textbf{Almindelig US}}$$</summary>
+
+</details>
 
 <details>
 <summary>$${\color{#0f8f94}\textbf{Undersøgelse af nyfødte}}$$</summary>
-Nogen timer efter fødslen udføres en rutine US af alle nyfødte, som består af:
+Nogle timer efter fødslen udføres en rutine US af alle nyfødte, som består af:
 
 1. Inspektion:
 	- Generel tilstand:
