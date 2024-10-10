@@ -3,8 +3,8 @@
 <details>
 <summary><b>Indholdsfortegnelse</b></summary>
 
-- <i> [Vækst](#Vækst)
-- [Nyfødte](#Nyfødte)</i>
+- <i> [Vækst](#------------------------------------)
+- [Nyfødte](#------------------------------------1)</i>
 </details>
 <br>
 
@@ -13,7 +13,7 @@
 $${\color{#27bec4}\Huge{Vækst}}$$
 </summary>
 
-###### Vækst
+###### ------------------------------------
 ### $${\color{#0f8f94}\textbf{Normal vækst}}$$
 <p>Gennem hele barndommen vil barnet normalt vokse og udvikle sig, som fører til at normalværdier ændrer sig.<br>
 Vækst er en multifaktoriel process, som styres af genetik, ernæring, hormoner, psykosociale forhold, somatisk helbred og andet. <br>
@@ -78,7 +78,8 @@ Deretter avtar farten, og barnet vokser med en fart på 5-6 cm/år eller lavere 
 
 <details open>
 <summary>$${\color{#27bec4}\Huge{Nyfødte}}$$</summary>
-
+	
+###### ------------------------------------
 <details>
 <summary>$${\color{#0f8f94}\textbf{Undersøgelse af nyfødte}}$$</summary>
 Nogen timer efter fødslen udføres en rutine US af alle nyfødte, som består af:
