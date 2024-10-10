@@ -61,59 +61,60 @@ Nogen timer efter fødslen udføres en rutine US af alle nyfødte, som består a
 
 2. Reflekser:
 	- Mororefleksen:
-   	- Undersøkes ved å løfte barnets overkropp noen cm over madrassen og slippe det ned
-     - Barnet vil da typisk vise tre ting:
-      a) abduksjon av armer
-      b) adduksjon av armer
-      c) gråt
+   	- Undersøges ved at løfte barnets overkrop nogen cm over madrassen og slippe det
+     - Barnet vil så typisk vise tre ting:
+      a) abduksion af arme
+      b) adduksion af arme
+      c) gråd
 	- Palmarrefleksen: 
-		- Kalles også griperefleksen og undersøkes ved å legge ens egne tomler inni barnets håndflater
-		- Barnet vil normalt gripe om tomlene med en slik styrke, at det nesten kan løftes fra madrassen
+		- Kaldes også griberefleksen og undersøges ved at lægge ens egne tommelfingre ind i barnets håndflader
+		- Barnet vil normalt gribe om tomlerne med en styrke, så at barnet næsten kan løftes fra madrassen
 	- Plantarrefleksen: 
-		- Hos barn < 1 år er denne positiv annerledes enn hos voksne
-		- Refleksen undersøkes ved å legge en finger like under tærne. Tærne vil da normalt flekteres. Deretter strykes fingeren nedover fotsålen, og det ses da, at tærne ekstenderes og abduseres, altså Babinskis tegn
-		- Refleksen endres med alderen, fordi den kortikospinale banen myeliniseres, og Babinski etter 18 mdr. er patologisk
+		- Hos børn < 1 år er denne positiv anderledes end hos voksne
+		- Refleksen undersøges ved at lægge en finger lige under tæerne. Tæerne vil normalt flekteres. Derefter stryges finger nedover fodsålen, og det ses, at tæerne ekstenderes og abduceres, altså Babinskis tegn
+		- Refleksen ændres med alderen, fordi den kortikospinale bane myeliniseres, og Babinski efter 18 mdr. er patologisk
 	- Sugerefleksen: 
-		- Undersøkes ved å la barnet suge på undersøkerens lillefinger
-	- Tonus i nakken: 
-		- Barnet skal ha en viss tonus i nakken, når det løftes opp fra madrassen
+		- Undersøges ved at lade barnet suge på undersøgerens lillefinger
+	- Tonus i nakken:
+		- Barnet skal have en vis tonus i nakken, når det løftes op fra madrassen
 
-3. Topp til tå-undersøkelse:
+3. Top til tå US:
 	- Fontaneller og suturer: 
-		- Skal palperes (hvis præmaturt lukket / inden for 1 år → kraniosynostose)
-		- Normalt vil det være enkelt å kjenne fremre (store, firkantede) fontanelle, mens den bakre (lille, trekantede) ofte er bedre skjult
+		- Skal palperes (hvis præmaturt lukket / indenfor 1 år → kraniosynostose)
+		- Normalt nemt at kende forreste (store, firkantede) fontanel. Den bagerste (lille, trekantede) ofte er bedre skjult
 	- Rød refleks: 
-		- Skal være til stede i begge øyne
+		- Skal være til stede i begge øjne
 		- Kan mangle (katarakt) eller være abnorm (retinoblastom)
 	- Ganen: 
-		- Palperes med lillefingeren, samtidig som man undersøker sugerefleksen
-		- Det er viktig å palpere langt bak i ganen for å avdekke en mulig åpen ganespalte
-		- Samtidig undersøkes også tungebåndet
+		- Palperes med lillefingeren + samtidig undersøg sugerefleksen
+		- Vigtigt at palpere langt bag i ganen for at afdække mulig åben ganespalte
+		- Samtidig undersøges tungebåndet
 	- Clavicula: 
-		- Kan brekke under fødselen og må derfor palperes
-	- Auskultasjon: 
-		- Gjøres av hjerte, lunger og abdomen
-		- Det er lurt å gjøre også dette, når sugerefleksen undersøkes, fordi det da er størst sannsynlighet for, at barnet ikke gråter
-		- 90% av premature har etter fødselen en åpen ductus arteriosus, som gir en systolisk bilyd
-	- Palpasjon av abdomen: 
-		- Det kjennes etter stor milt, lever og nyrer
-		- Det palperes også for tumores (fx nevroblastom)
+		- Kan brække under fødslen og skal derfor palperes
+	- Auskultation: 
+		- Af hjerte, lunger og abdomen
+		- Smart også at gøre dette når sugerefleksen undersøges = mindst sandsynlighed for at barnet græder på det tidspunkt
+		- 90% af premature har efter fødslen en åben ductus arteriosus → giver en systolisk bilyd
+	- Palpation af abdomen: 
+		- Mærker efter stor milt, lever og nyrer
+		- Palperes også for tumores (fx neuroblastom)
 	- Eksterne genitalier: 
 		- Inspiseres (hvordan ser labia ud? ender urethra på penis? analatresi?)
 		- Scrotum palperes - er testiklerne descenderet?
-		- Samtidig spørres foreldre, om barnet har tisset og bæsjet
-	- Palpasjon av lyskepulser: 
-		- Gjøres for å undersøke for coarctatio aortae
-		- Det er ikke viktig, at pulsene er symmetriske, men begge skal være til stede 
-		- De er som regel lette å kjenne på premature, mens terminbarn har mer fett og dermed bedre skjulte pulser
+		- Samtidig indspørges forældrene, om barnet har tisset og bæsjet
+	- Palpation af lyskepulse: 
+		- Undersøger for coarctatio aortae
+		- Ikke vigtigt at pulsene er symmetriske, men begge skal være tilstede 
+		- De er som regel lette at kende på premature, mens terminbørn er mere fedebær → bedre skjulte pulse
 	- Ortolanis test: 
-		- Undersøkelse for medfødt (arvelig) hofteleddsdysplasi
-		- Us gjøres ved, at barnet ligger med flekterte og adduserte hofter
-		- Hoftene presses ned mot underlaget, samtidig som de abduseres, og ved hofteleddsdysplasi vil dette føre til, at de går ut av ledd
-		- Dersom testen er positiv, og/eller det har forekommet hoftedysplasi i familien, henvises barnet til UL innen 2 uker
+		- US for medfødt (arvelig) hofteleddsdysplasi
+		- Gøres ved at barnet ligger med flekterede og adducerte hofter
+		- Hofterne presses ned mod underlaget, samtidig med at de abduceres.
+		- Ved hofteleddsdysplasi vil dette føre til at de går ud af led (AV WTF??!?)
+		- V positiv test og/eller der forekommer hoftedysplasi i familien henvises barnet til UL inden 2 uger
 	- Spina: 
-		- Palperes i hele lengden
-		- Sees tegn på brokk?
+		- Palperes i hele længden
+		- Ses tegn på brok?
 
 
 
