@@ -121,7 +121,7 @@ Hvis barnet krydser ≥2 percentiler, bør det udredes nærmere (obs ***failure 
 - Andre målinger som også er af betydning er fx armspæn, hovedomkreds og siddehøjde
 </details>
 
-<details open><summary>Beregning af højde:</summary>
+<details><summary>Beregning af højde:</summary>
 
 - Det findes flere enkle formler for udregning af hvad barnets totale højde kommer til at blive:
 	 - Total højde = $højde_{2-årsalder}*2$
@@ -133,7 +133,7 @@ Hvis barnet krydser ≥2 percentiler, bør det udredes nærmere (obs ***failure 
 </details>
 
 
-<details open><summary>Afvigende højde:</summary>
+<details><summary>Afvigende højde:</summary>
 
 - Skyldes i de fleste tilfælde, at barnet er < 2,5- eller > 97,5-percentilen, uden at det skyldes sygdom
 - Lav højde skyldes oftest genetik (lave forældre), eller at væksten bare er forsinket og indhentes igen senere
@@ -146,7 +146,7 @@ Hvis barnet krydser ≥2 percentiler, bør det udredes nærmere (obs ***failure 
 </details>
 
 <details>
-<summary>$${\color{#0f8f94}\large\textbf{Anden udvikling}}$$</summary>
+<summary>$${\color{#0f8f94}\large\textbf{Anden udvikling (oversæt)}}$$</summary>
 
 - Psykomotorisk utvikling
 	- Dreier seg både om grov- og finmotorikk + psykososial funksjon og språk
@@ -249,7 +249,7 @@ Hvis barnet krydser ≥2 percentiler, bør det udredes nærmere (obs ***failure 
 <summary>$${\color{#27bec4}\Huge{Klinisk \space undersøgelse}}$$</summary>
 
 <details>
-<summary>$${\color{#0f8f94}\large\textbf{Almindelig US}}$$</summary>
+<summary>$${\color{#0f8f94}\large\textbf{Almindelig US (oversæt)}}$$</summary>
 
 - Barn har ikke ubegrenset tålmodighet, og man har derfor begrenset med tid til å gjøre en klinisk us
 - Det er ikke lurt å spørre barnet om tillatelse til å gjøre en undersøkelse, men dersom noe slik er nødvendig, kan man gi barnet følelsen av å få et valg fx ved å velge, hvilken finger metningsproben skal sitte på
@@ -373,9 +373,6 @@ Nogle timer efter fødslen udføres en rutine US af alle nyfødte, som består a
 		- Ses tegn på brok?
 </details>
 
-
-</p>
 </details>
 
-sd
 
