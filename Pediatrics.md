@@ -1,4 +1,4 @@
-# $${\color{#005156}{\textbf{\Huge{P Æ D I A T R I S K  U N D E R S Ø G E L S E}}}}$$
+# $${\color{#005156}{\textbf{\Huge{P Æ D I A T R I S K { }{ } U N D E R S Ø G E L S E}}}}$$
 
 <details>
 <summary><b>Indholdsfortegnelse</b></summary>
@@ -124,7 +124,7 @@ Hvis barnet krydser ≥2 percentiler, bør det udredes nærmere (obs ***failure 
 <details open><summary>Beregning af højde:</summary>
 
 - Det findes flere enkle formler for udregning af hvad barnets totale højde kommer til at blive:
-	 - Total højde = $højde_{2-årsalder} x 2$
+	 - Total højde = $højde_{2-årsalder}*2$
 	 - Total højde (piger) = $\frac{højde_{mor} + højde_{far} – 13}{2} , (+/− 10 cm)$
 	 - Total højde (drenge) = $\frac{højde_{mor} + højde_{far} + 13}{2} , (+/− 10 cm)$
 - Desuden kan total højde beregnes ved at måle knoglealder, som gøres ved at tage et rtg af ve håndled og hånd, hvor knoglevævet og epifyser undersøges
@@ -143,7 +143,6 @@ Hvis barnet krydser ≥2 percentiler, bør det udredes nærmere (obs ***failure 
 	- Endokrine tilstande som forsinket pubertet, hypotyreose, GH-mangel, hypofysesvigt eller øget kortisol
 - Generelt skal barnet følge sin egen kurve fra fødslen af, og afvigelser fra denne kan være tegn på sygdom
 </details>
-
 </details>
 
 <details>
@@ -151,13 +150,10 @@ Hvis barnet krydser ≥2 percentiler, bør det udredes nærmere (obs ***failure 
 
 </details>
 
-
 </details>
 
-<br>
-
 <details open>
-<summary>$${\color{#27bec4}\Huge{Klinisk undersøgelse}}$$</summary>
+<summary>$${\color{#27bec4}\Huge{Klinisk \space undersøgelse}}$$</summary>
 
 <details>
 <summary>$${\color{#0f8f94}\large\textbf{Almindelig US}}$$</summary>
