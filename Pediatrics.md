@@ -3,8 +3,8 @@
 <details>
 <summary><b>Indholdsfortegnelse</b></summary>
 
-- <i> [Vækst](#------------------------------------)
-- [Nyfødte](#------------------------------------1)</i>
+- <i>Vækst
+- Nyfødte</i>
 </details>
 <br>
 
@@ -13,7 +13,6 @@
 $${\color{#27bec4}\Huge{Vækst}}$$
 </summary>
 
-###### ------------------------------------
 ### $${\color{#0f8f94}\textbf{Normal vækst}}$$
 <p>Gennem hele barndommen vil barnet normalt vokse og udvikle sig, som fører til at normalværdier ændrer sig.<br>
 Vækst er en multifaktoriel process, som styres af genetik, ernæring, hormoner, psykosociale forhold, somatisk helbred og andet. <br>
@@ -64,12 +63,23 @@ Lengde/høyde:
 	|100 cm	|4 år|
 - Fra 4-årsalder til puberteten vil barnet vokse med 5-7,5 cm i året
 - Den raskeste lengdeveksten skjer i fosterlivet, i ukene før fødselen, og også i årene etter fødselen vokser barnet svært raskt med en fart på 8-12 cm per år
-Deretter avtar farten, og barnet vokser med en fart på 5-6 cm/år eller lavere i barndommen, før puberteten setter inn
- I denne fasen er det dessuten karakteristisk, at lemmene vokser raskere enn truncus, slik at størrelsesforholdet ml. disse endres
- I puberteten vil det igjen skje en vekstspurt, som styres av gonadotropiner (FSH/LH) → stimulerer østrogen/androgener → stimulerer GH
- Samtidig fører østrogener til, at epifyser ossificeres, og væksten stopper ved 15-årsalderen for piger og 17-årsalderen for drenge
- Det første tegn på at puberteten er i gang, er oftest at piger begynder at udvikle bryster, og drenge får større testikler, som sker i 10/11-årsalderen
- Vekstspurten inntreffer 1-3 år etter dette, og dette er den fasen etter fødselen, der lengdeveksten øker mest
+- Deretter avtar farten, og barnet vokser med en fart på 5-6 cm/år eller lavere i barndommen, før puberteten setter inn
+- I denne fasen er det dessuten karakteristisk, at lemmene vokser raskere enn truncus, slik at størrelsesforholdet ml. disse endres
+- I puberteten vil det igjen skje en vekstspurt, som styres av gonadotropiner (FSH/LH) → stimulerer østrogen/androgener → stimulerer GH
+- Samtidig fører østrogener til, at epifyser ossificeres, og væksten stopper ved 15-årsalderen for piger og 17-årsalderen for drenge
+- Det første tegn på at puberteten er i gang, er oftest at piger begynder at udvikle bryster, og drenge får større testikler, som sker i 10/11-årsalderen
+- Vekstspurten inntreffer 1-3 år etter dette, og dette er den fasen etter fødselen, der lengdeveksten øker mest
+- Det er viktig å huske, at de individuelle variasjonene er store, og at gjentatte målinger, som viser en kurve, er mer verdifulle enn en enkelt måling av høyden
+- Andre målinger som også er av betydning er fx armspenn, hodeomkrets og sittehøyde
+
+Beregning av høyde:
+- Det finnes flere enkle formler for utregning av hva barnets totale høyde kommer til å bli:
+	 Total høyde: $højde_("2-årsalder") x 2$
+	 Total høyde (jenter) = $(mors højde + fars højde – 13)/2$      (+/− 10 cm)
+	 Total høyde (gutter) =$(Mors hyde + fars hyde + 13)/2 , (+/− 10 cm)$
+- Dessuten kan total høyde beregnes ved å måle beinalder, som gjøres ved å ta et røntgenbilde av venstre håndledd og hånd, hvor beinvevet og epifyser undersøkes
+- På denne måten kan barnets gjenværende vekstpotensial beregnes
+- Imidlertid er standardavvikene store ved bruk av denne metoden
 
 
 <br>
@@ -78,8 +88,7 @@ Deretter avtar farten, og barnet vokser med en fart på 5-6 cm/år eller lavere 
 
 <details open>
 <summary>$${\color{#27bec4}\Huge{Nyfødte}}$$</summary>
-	
-###### ------------------------------------
+
 <details>
 <summary>$${\color{#0f8f94}\textbf{Undersøgelse af nyfødte}}$$</summary>
 Nogen timer efter fødslen udføres en rutine US af alle nyfødte, som består af:
