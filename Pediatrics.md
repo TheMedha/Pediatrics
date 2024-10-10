@@ -11,7 +11,7 @@
 
 <details>
 <summary>
-$${\color{#27bec4}\Huge{Anamnese}}$$
+$${\color{#27bec4}\Huge{Anamnese(oversæt)}}$$
 </summary>
 
 - Den pediatriske us starter allerede, når pt. og foreldre kommer inn i rommet
@@ -48,12 +48,12 @@ $${\color{#27bec4}\Huge{Anamnese}}$$
 
 
 
-<details>
+<details open>
 <summary>
 $${\color{#27bec4}\Huge{Vækst}}$$
 </summary>
 
-<details open>
+<details>
 <summary>
 $${\color{#0f8f94}\large\textbf{Normal vækst}}$$
 </summary>
@@ -148,6 +148,99 @@ Hvis barnet krydser ≥2 percentiler, bør det udredes nærmere (obs ***failure 
 <details>
 <summary>$${\color{#0f8f94}\large\textbf{Anden udvikling}}$$</summary>
 
+- Psykomotorisk utvikling
+	- Dreier seg både om grov- og finmotorikk + psykososial funksjon og språk
+	- Når barnets utviklingstrinn skal vurderes, er det viktig å vurdere disse forholdene hver for seg
+	- Følgende er normal utvikling i tidlige år (billede)
+	- Den såkalte støtterefleksen er en forutsetning for, at barnet klarer å sitte selv
+	- Når barnet tar sine første skritt uten støtte, er det veldig vanlig, at det holder en gjenstand i hånden, fordi det da tror, at det går med støtte
+	- Gråtelydene, som oppstår 1-2 måneder etter fødselen, er litt annerledes enn den, som forekommer like etter fødselen
+	- For at de sosiale milepælene skal kunne nås, er syn og hørsel nødt til å være adekvat, og dette er noe, som må vurderes, dersom utviklingen ikke er normal
+	- Dersom barnet ikke utvikler disse ferdighetene, bør det utredes nærmere
+	- Det samme gjelder, dersom barnet går tilbake i utvikling
+	- Absolutte utviklingstrinn, som skal vekke alvorlig mistanke, dersom de ikke nås, er:
+		 - 5 måneder: Barnet skal klare å strekke seg etter ting
+		 - 10 måneder: Barnet skal klare å sitte uten støtte
+		 - 12 måneder: Barnet skal ha pinsettgrep
+		 - 18 måneder: Barnet skal klare å gå
+	 - Imidlertid finner man ofte en gråsone ml. normal og patologisk, når barnet us
+	 - Det, man da oftest må gjøre, er å sette opp en ny avtale og se, hvordan utviklingen har vært siden sist
+- Primitive reflekser:
+	 - Er nødt til å forsvinne, før barnet kan utvikle viljestyrte bevegelser
+	 - Griperefleksen forsvinner ved 2-3-månedersalder, mens 'gangrefleksen' forsvinner allerede noen få uker etter fødsel
+- Avanserte reflekser:
+	 - Landau-refleksen:
+		 - utvikles ved 4-5-månedersalder og er en forutsetning for, at barnet skal kunne sitte og gå
+		 - undersøkes ved, at barnet holdes liggende flatt i luften på magen i undersøkerens hånd, før hodet dyttes mot fleksjon
+		 - dersom refleksen er til stede, vil også beina flekteres, og ekstenderes igjen, når hodet slippes
+	 - Protektiv ekstensjon/sitterefleksen:
+		 - utvikles ved 5-7-månedersalder, først anteriort og deretter lateralt
+		 - når refleksene er til stede, vil barnet ekstendere armene for å forhindre fall, når det sitter
+	 - Fallskjermrefleksen:
+		 - er den siste posturale refleksen, som utvikles, som skjer ved 8-9-månedersalder
+		 - når barnet holdes i luften og snus nedover, vil det ekstendere armene
+- Motorikk: 
+	 - Nyfødte har ingen evne til å støtte eller holde hodet, men allerede ved 6- ukersalder vil barnet kunne holde hodet oppe i samme plan som kroppen i en kort periode, og ved 8 uker klarer det å løfte hodet over kroppen, når det ligger på magen
+	 - Etter 9 mdr. har det lært å krabbe og etter 12 måneder å gå på alle fire eller gå på to bein med støtte
+	 - Kort etter dette klarer barnet selv å gå uten støtte
+	 - I løpet av første leveår blir grepet mer velutviklet fra et såkalt radialt grep til et veldefinert pinsettgrep
+	 - Ved 5-månedersalder skal barnet være i stand til å strekke seg etter objekter og en måned senere kunne overføre objekter fra en hånd til en annen
+	 - Ved 9 mdr. kan barnet legge fra seg objekter kontrollert eller gi dem til noen andre
+- Tale: 
+	 - Følgende er tommelfingerregler for utvikling av talen:
+	|Alder|Språk|
+	|---|---|
+	|1 år|	1-3 ord|
+	|2 år|	Fraser med 2-3 ord|
+	|3 år|	Bruk av setninger|
+	|4 år|	Bruk av leddsetninger|
+	|5 år|	Komplekse setninger med pronomen og preposisjoner|
+	 - Også hastigheten på språkutviklingen endres
+	 - Ved 1-årsalder vil barnet lære ett nytt ord i uken, mens det ved 2-årsalder lærer et nytt ord om dagen
+	 - Etter 15-18 måneder er det typisk, at barnet konstruerer sine egne ord
+	 - Før dette har barnet brukt ekte ord, men ikke nødvendigvis skjønt meningen med disse
+	 - 5-10% av alle barn har problemer med språkutviklingen (ekspressive, reseptive eller fonologiske vansker)
+- Sanseinntrykk:
+	 - Allerede ved fødselen vil barnet foretrekke ansikter foran andre bilder
+	 - Fra 6 til 12 uker begynner barnet å smile, og fra 12-24 uker vil barnet se på sine egne hender
+	 - Ved 3-månedersalder kan barnet snu seg mer lokalisert etter lyder og er også da i stand til å gi øyenkontakt
+- Ernæring:
+	 - Normalt vil barnet leve av bare brystmelk i 4-6 måneder etter fødselen og fortsette med amming opptil 12-månedersalder
+	 - Fra rundt 4-6 måneder blir annen mat introdusert i kosten, og antall måltider med brystmelk (som er svært variabelt) blir gradvis redusert
+	 - Dette sammenfaller med, at barnet krever protein, jern, sink og annet, som det ikke får tilstrekkelige mengder av gn. brystmelk
+	 - Dersom barnet av en eller annen grunn ikke kan ammes, finnes morsmelk-erstatning, som er adekvat for de fleste barn og er laget for å ligne mest mulig på morsmelk
+- Gråt: 
+	 - Vanligvis gråter nyfødte lite de første 2 ukene av livet
+	 - Fra 2-6 uker gråter barnet i gjennomsnitt 2-3 timer/dag
+	 - Såkalte ’kolikkbarn’ gråter per definisjon > 3 timer/dag, > 3 dager/uke i > 3 uker
+	 - Mindre enn 5% av disse har en organisk årsak til gråten
+	 - Tantrum (raserianfall) er regnet som normalt i 1-3-årsalder og betraktes som et normalt utviklingstrinn
+- Søvn: 
+	 - Spedbarn født til termin sover normalt 2/3 av døgnet
+	 - Ved 1-årsalder er dette redusert til 14 timer, hvorav 2-3 av disse er midt på dagen
+	 - Ved 12-årsalder sover barnet normalt 9 timer
+	 - Nyfødte har en søvnsyklus på 60 min., som starter med aktiv søvn, mens eldre barn og voksne har 90-minutters sykluser, som starter med non-REM-søvn
+- Pubertet: 
+	 - Starter normalt i alderen 9-13,5 år hos jenter og 10-14,5 år hos gutter
+	 - Det første tegnet er, at brystene og testiklene begynner å vokse
+	 - Pubertetsutviklingen kan monitoreres med Tanner-stadiene, som registrerer kjønnshår og utvikling av bryster og mannlige genitalier
+	 - Puberteten kan av mange grunner komme for tidlig eller for sent, og beh. må da rette seg mot den underliggende årsaken
+	 - Ettersom pubertetsutviklingen prioriteres høyere enn lagring av fett, kan overvekt føre til tidlig menstruasjon. Samtidig stopper veksten opp i puberteten. 
+	 - Motsatt vil puberteten kunne bli forsinket ved anoreksi, og alder for menarke og BMI er tett korrelert
+- Ungdommen:
+	 - Generelt en tid med få helseproblemer, men prevalensen av hodepine, overvekt og psykiatriske sykdommer som angst og depresjon, spiseforstyrrelser og rusmisbruk øker
+	 - Trolig er også insidensen av disse tilstandene stigende
+	 - Undersøkelser har vist, at norske ungdommer jevnt over er friske, fornøyde med livene deres og har venner. Dette gjelder imidlertid ikke alle. 
+	 - Fastlegen har en viktig rolle med å fange opp dette, men ofte er henvisning av ungdommer indisert, spesielt dersom legemidler kan være nødvendig
+	 - Som vanlig gjelder tre nøkkelspørsmål for å fange opp depresjon: 
+		 - Føler du deg nedstemt? 
+		 - Opplever du lite glede ved lystbetonte aktiviteter? 
+		 - Ønsker du hjelp for dette? 
+	 - Ved migrene hos barn > 12 år er sumatriptan 1. valget
+	 - Ungdommers hjerne er avhengig av amygdala for å fatte beslutninger, som bl.a. kan føre til mer risikoadferd
+- Barnevaksinasjonsprogrammet:
+	 - Første vaksine gis etter 6 uker (rotavirus)
+	 - Deretter gis mange andre vaksiner de neste månedene og årene fram til siste vaksine ved 16-årsalder
 </details>
 
 </details>
@@ -158,6 +251,43 @@ Hvis barnet krydser ≥2 percentiler, bør det udredes nærmere (obs ***failure 
 <details>
 <summary>$${\color{#0f8f94}\large\textbf{Almindelig US}}$$</summary>
 
+- Barn har ikke ubegrenset tålmodighet, og man har derfor begrenset med tid til å gjøre en klinisk us
+- Det er ikke lurt å spørre barnet om tillatelse til å gjøre en undersøkelse, men dersom noe slik er nødvendig, kan man gi barnet følelsen av å få et valg fx ved å velge, hvilken finger metningsproben skal sitte på
+- For å vinne barnets tillit er det viktig å etablere en allianse med foreldrene først. Barnet vil stole på en person, når han ser, at foreldrene gjør det.
+- Observasjon:
+	 - Starter allerede, når barnet kommer inn i rommet
+	 - Foruten sosial fungering, kontaktevne, stemningsleie og bevissthetsnivå, observeres også gange og andre bevegelser
+	 - Et barn, som er redd eller har smerter, kan virke yngre, enn det er
+	 - Når barnet skal inspiseres videre, er det veldig viktig å ta av klær og se på så mye hud som mulig. Huden inspiseres for farge, utslett eller ødemer. 
+	 - Respirasjon vurderes ved inndragninger, frekvens og nesevingespiling 
+	 - Er abdomen utspilt? 
+	 - Ser ansiktstrekkene normale eller syndromiske ut? 
+	 - Ser genitalier normale ut?
+- Auskultasjon: 
+	 - Krever et barn, som ikke lager lyd, og denne us må derfor times godt
+	 - For å gjøre barnet trygg på stetoskopet kan man la det berøre det og vise, hvordan man auskulterer på seg selv, foreldre eller en bamse først
+	 - Man auskulterer først og fremst hjertet, lunger og abdomen
+- Perkusjon:
+	 - Gjøres primært på thorax, hvor man undersøker for lungegrenser og sideforskjell
+	 - Perkusjon av abdomen er ikke nødvendigvis obligatorisk, men gjøres, dersom den er utspilt
+- Palpasjon:
+	 - Mange punkter må vurderes her
+	 - Det undersøkes for stående hudfolder (turgor), kapillærfylning, og hver kroppsdel palperes så for seg: 
+		 - Abdomen palperes for konsistens, symmetri, tumores, smerter og forstørret lever/milt
+		 - Er fontanellen bulende eller innsunket?
+		 - Lymfeknuter palperes occipitalt, langs m. sternocleidomastoideus, submandibulært, i aksillen og i lysken
+		 - Det palperes perifere og sentrale pulser
+- Otoskopi: 
+	 - Kan være en ubehagelig undersøkelse og gjøres derfor mot slutten
+	 - Barnet bør sitte på forelderens fang, som holder det fast på en omsorgsfull måte
+- Oral us:
+	 - Er også ubehagelig og kommer mot slutten av us
+	 - Det er viktig å inspisere for rødhet, tonsillehypertrofi, puss, asymmetri, våte slimhinner og tannstatus
+- Eksplorasjon:
+	 - Gjøres bare på indikasjon hos barn, da fortrinnsvis med lillefingeren
+- Andre undersøkelser:
+	 - Ved mistanke om sykdom i et bestemt system eller organ undersøkes dette selvsagt spesifikt med egnede undersøkelser
+	 - Supplerende undersøkelser gjøres, dersom dette er nødvendig
 </details>
 
 <details>
