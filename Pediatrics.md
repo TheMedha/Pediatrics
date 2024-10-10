@@ -10,7 +10,9 @@
 <br>
 
 <details>
-<summary>$${\color{#27bec4}\textbf{Anamnese}}$$</summary>
+<summary>
+$${\color{#27bec4}\Huge{Anamnese}}$$
+</summary>
 
 - Den pediatriske us starter allerede, når pt. og foreldre kommer inn i rommet
 - Man skal observere barnets utviklingsstadium og sammenligne dette med dets alder -  passer utviklingen med alderen? 
@@ -46,14 +48,14 @@
 
 
 
-<details open>
+<details>
 <summary>
 $${\color{#27bec4}\Huge{Vækst}}$$
 </summary>
 
 <details open>
 <summary>
-$${\color{#0f8f94}\textbf{Normal vækst}}$$
+$${\color{#0f8f94}\large\textbf{Normal vækst}}$$
 </summary>
 
 Gennem hele barndommen vil barnet normalt vokse og udvikle sig, som fører til at normalværdier ændrer sig.<br>
@@ -145,7 +147,7 @@ Hvis barnet krydser ≥2 percentiler, bør det udredes nærmere (obs ***failure 
 </details>
 
 <details>
-<summary>$${\color{#0f8f94}\textbf{Anden udvikling}}$$</summary>
+<summary>$${\color{#0f8f94}\large\textbf{Anden udvikling}}$$</summary>
 
 </details>
 
@@ -158,12 +160,12 @@ Hvis barnet krydser ≥2 percentiler, bør det udredes nærmere (obs ***failure 
 <summary>$${\color{#27bec4}\Huge{Klinisk undersøgelse}}$$</summary>
 
 <details>
-<summary>$${\color{#0f8f94}\textbf{Almindelig US}}$$</summary>
+<summary>$${\color{#0f8f94}\large\textbf{Almindelig US}}$$</summary>
 
 </details>
 
 <details>
-<summary>$${\color{#0f8f94}\textbf{Undersøgelse af nyfødte}}$$</summary>
+<summary>$${\color{#0f8f94}\large\textbf{Undersøgelse af nyfødte}}$$</summary>
 Nogle timer efter fødslen udføres en rutine US af alle nyfødte, som består af:
 
 1. Inspektion:
