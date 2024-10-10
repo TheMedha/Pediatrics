@@ -9,11 +9,11 @@
 <br>
 
 <details open>
-	
 <summary>
 $${\color{#27bec4}\Huge{Vækst}}$$
 </summary>
 
+###### Vækst
 ### $${\color{#0f8f94}\textbf{Normal vækst}}$$
 <p>Gennem hele barndommen vil barnet normalt vokse og udvikle sig, som fører til at normalværdier ændrer sig.<br>
 Vækst er en multifaktoriel process, som styres af genetik, ernæring, hormoner, psykosociale forhold, somatisk helbred og andet. <br>
