@@ -35,6 +35,7 @@ Percentiler:
 <details open>
 <summary>$${\color{#27bec4}\Huge{Nyfødte}}$$</summary>
 
+<details open>
 ### $${\color{#0f8f94}\textbf{Undersøgelse af nyfødte}}$$
 Nogen timer efter fødslen udføres en rutine US af alle nyfødte, som består af:
 
@@ -115,7 +116,7 @@ Nogen timer efter fødslen udføres en rutine US af alle nyfødte, som består a
 	- Spina: 
 		- Palperes i hele længden
 		- Ses tegn på brok?
-
+</details>
 
 
 </p>
