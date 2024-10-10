@@ -39,7 +39,7 @@ Percentiler:
 Nogen timer efter fødslen udføres en rutine US af alle nyfødte, som består af:
 
 1. Inspektion:
-  - Generel tilstand:
+	- Generel tilstand:
      	- Alertness (respons på visuelle, taktile og auditoriske stimuli, øjenkontakt)
      	- Hovedstørrelse (mikro-/makrocefali, occipitofrontal hovedcirkumferens)
      	- Hovedform (kraniedefekter, bådkranium ved kraniosynostose)
@@ -54,13 +54,13 @@ Nogen timer efter fødslen udføres en rutine US af alle nyfødte, som består a
     	- Et gult barn er ikterisk
 	- Kapillærfyldning:
     	- Skal være < 2 sekunder
-    	-  3 sekunder i neonatalperioden
+    	- < 3 sekunder i neonatalperioden
     	- Forsinket kapillærrespons tegn på dårlig blodcirkulation
 	- Respiration:
     	- Inddragninger/indtrækninger, frekvens og næsevingeudspiling 
 
 2. Reflekser:
-  - Mororefleksen:
+	- Mororefleksen:
    	- Undersøkes ved å løfte barnets overkropp noen cm over madrassen og slippe det ned
      - Barnet vil da typisk vise tre ting:
       a) abduksjon av armer
