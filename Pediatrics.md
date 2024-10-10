@@ -23,8 +23,8 @@ Dermed er dette et godt mål på barnets generelle trivsel og er også vigtigt a
 
 Hvis barnet krydser ≥2 percentiler, bør udredes nærmere (obs `failure to thrive`)
 
-	[! NOTE]
-	Betegnelsen dårlig trivsel (failure to thrive) anvendes om børn med utilstrækkelig vægtøgning i spæd- og småbarnsalderen. Hvis tilstanden persisterer i længere tid, er der risiko for, at barnets længdevækst også påvirkes, og sidst reduceres hovedomfangstilvækst. Derudover kan barnets øvrige udvikling blive påvirket i negativ retning.
+[! NOTE]
+[Betegnelsen dårlig trivsel (failure to thrive) anvendes om børn med utilstrækkelig vægtøgning i spæd- og småbarnsalderen. Hvis tilstanden persisterer i længere tid, er der risiko for, at barnets længdevækst også påvirkes, og sidst reduceres hovedomfangstilvækst. Derudover kan barnets øvrige udvikling blive påvirket i negativ retning.]
 
 
 Percentiler:
