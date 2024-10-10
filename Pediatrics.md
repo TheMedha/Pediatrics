@@ -35,8 +35,8 @@ Percentiler:
 <details open>
 <summary>$${\color{#27bec4}\Huge{Nyfødte}}$$</summary>
 
-<details open>
-### $${\color{#0f8f94}\textbf{Undersøgelse af nyfødte}}$$
+<details>
+<summary>$${\color{#0f8f94}\textbf{Undersøgelse af nyfødte}}$$</summary>
 Nogen timer efter fødslen udføres en rutine US af alle nyfødte, som består af:
 
 1. Inspektion:
