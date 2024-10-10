@@ -19,12 +19,12 @@ $${\color{#27bec4}\Huge{Vækst}}$$
 Vækst er en multifaktoriel process, som styres af genetik, ernæring, hormoner, psykosociale forhold, somatisk helbred og andet. <br>
 Dermed er dette et godt mål på barnets generelle trivsel og er også vigtigt at overvåge.
 
-	Børn finder deres percentil i slutningen af 1. leveår. Det er således normalt at krydse én vækstkurve i 1. leveår (hvis barnet i øvrigt er velbefindende), idet vækstmekanismerne ændres fra det intrauterine til det ekstrauterine liv. I alderen 6 uger til 1 år vil kun ca. 5% af normale børn krydse to kurver, og kun 1% krydse tre kurver; gentagne målinger er essentielle for at kunne vurdere barnets vækstkurve.
+> [!IMPORTANT] Børn finder deres percentil i slutningen af 1. leveår. Det er således normalt at krydse én vækstkurve i 1. leveår (hvis barnet i øvrigt er velbefindende), idet vækstmekanismerne ændres fra det intrauterine til det ekstrauterine liv. I alderen 6 uger til 1 år vil kun ca. 5% af normale børn krydse to kurver, og kun 1% krydse tre kurver; gentagne målinger er essentielle for at kunne vurdere barnets vækstkurve.
 
 Hvis barnet krydser ≥2 percentiler, bør udredes nærmere (obs `failure to thrive`)
 
-[! NOTE]
-[Betegnelsen dårlig trivsel (failure to thrive) anvendes om børn med utilstrækkelig vægtøgning i spæd- og småbarnsalderen. Hvis tilstanden persisterer i længere tid, er der risiko for, at barnets længdevækst også påvirkes, og sidst reduceres hovedomfangstilvækst. Derudover kan barnets øvrige udvikling blive påvirket i negativ retning.]
+> [! NOTE]
+> Betegnelsen dårlig trivsel (failure to thrive) anvendes om børn med utilstrækkelig vægtøgning i spæd- og småbarnsalderen. Hvis tilstanden persisterer i længere tid, er der risiko for, at barnets længdevækst også påvirkes, og sidst reduceres hovedomfangstilvækst. Derudover kan barnets øvrige udvikling blive påvirket i negativ retning.
 
 
 Percentiler:
