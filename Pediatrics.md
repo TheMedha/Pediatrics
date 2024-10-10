@@ -19,6 +19,14 @@ $${\color{#27bec4}\Huge{Vækst}}$$
 Vækst er en multifaktoriel process, som styres af genetik, ernæring, hormoner, psykosociale forhold, somatisk helbred og andet. <br>
 Dermed er dette et godt mål på barnets generelle trivsel og er også vigtigt at overvåge.
 
+	Børn finder deres percentil i slutningen af 1. leveår. Det er således normalt at krydse én vækstkurve i 1. leveår (hvis barnet i øvrigt er velbefindende), idet vækstmekanismerne ændres fra det intrauterine til det ekstrauterine liv. I alderen 6 uger til 1 år vil kun ca. 5% af normale børn krydse to kurver, og kun 1% krydse tre kurver; gentagne målinger er essentielle for at kunne vurdere barnets vækstkurve.
+
+Hvis barnet krydser ≥2 percentiler, bør udredes nærmere (obs `failure to thrive`)
+
+	[! NOTE]
+	Betegnelsen dårlig trivsel (failure to thrive) anvendes om børn med utilstrækkelig vægtøgning i spæd- og småbarnsalderen. Hvis tilstanden persisterer i længere tid, er der risiko for, at barnets længdevækst også påvirkes, og sidst reduceres hovedomfangstilvækst. Derudover kan barnets øvrige udvikling blive påvirket i negativ retning.
+
+
 Percentiler:
 - Mål på fordelingen af højde eller vækst i befolkningen
 - Ved 2,5-percentilen er 2,5% af børnene lavere/lettere end dette, og ved 50-percentilen er 50% af børnene over og under kurven
@@ -63,7 +71,7 @@ Nogen timer efter fødslen udføres en rutine US af alle nyfødte, som består a
 2. Reflekser:
 	- Mororefleksen:
    	- Undersøges ved at løfte barnets overkrop nogen cm over madrassen og slippe det
-     - Barnet vil så typisk vise tre ting:
+     - Barnet vil så typisk vise tre ting [Moro reflex](https://www.youtube.com/watch?v=PTz-iVI2mf4):
       a) abduksion af arme
       b) adduksion af arme
       c) gråd
@@ -107,7 +115,7 @@ Nogen timer efter fødslen udføres en rutine US af alle nyfødte, som består a
 		- Undersøger for coarctatio aortae
 		- Ikke vigtigt at pulsene er symmetriske, men begge skal være tilstede 
 		- De er som regel lette at kende på premature, mens terminbørn er mere fedebær → bedre skjulte pulse
-	- Ortolanis test: 
+	- [Ortolanis test](https://www.youtube.com/shorts/SAzc69n6sms): 
 		- US for medfødt (arvelig) hofteleddsdysplasi
 		- Gøres ved at barnet ligger med flekterede og adducerte hofter
 		- Hofterne presses ned mod underlaget, samtidig med at de abduceres.
