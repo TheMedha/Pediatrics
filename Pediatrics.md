@@ -32,7 +32,7 @@ Percentiler:
 
 </details>
 
-<details>
+<details open>
 <summary>$${\color{#27bec4}\Huge{Nyfødte}}$$</summary>
 
 ### $${\color{#0f8f94}\textbf{Undersøgelse af nyfødte}}$$
