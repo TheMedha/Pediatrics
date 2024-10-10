@@ -13,8 +13,12 @@
 $${\color{#27bec4}\Huge{Vækst}}$$
 </summary>
 
-### $${\color{#0f8f94}\textbf{Normal vækst}}$$
-<p>Gennem hele barndommen vil barnet normalt vokse og udvikle sig, som fører til at normalværdier ændrer sig.<br>
+<details open>
+<summary>
+$${\color{#0f8f94}\textbf{Normal vækst}}$$
+</summary>
+
+Gennem hele barndommen vil barnet normalt vokse og udvikle sig, som fører til at normalværdier ændrer sig.<br>
 Vækst er en multifaktoriel process, som styres af genetik, ernæring, hormoner, psykosociale forhold, somatisk helbred og andet. <br>
 Dermed er dette et godt mål på barnets generelle trivsel og er også vigtigt at overvåge.
 
@@ -28,7 +32,8 @@ Hvis barnet krydser ≥2 percentiler, bør det udredes nærmere (obs ***failure 
 ***Failure to thrive:*** Betegnelsen dårlig trivsel (failure to thrive) anvendes om børn med utilstrækkelig vægtøgning i spæd- og småbarnsalderen. Hvis tilstanden persisterer i længere tid, er der risiko for, at barnets længdevækst også påvirkes, og sidst reduceres hovedomfangstilvækst. Derudover kan barnets øvrige udvikling blive påvirket i negativ retning.
 
 
-Percentiler:
+<details><summary>Percentiler:</summary>
+
 - Mål på fordelingen af højde eller vækst i befolkningen
 - Ved 2,5-percentilen er 2,5% af børnene lavere/lettere end dette, og ved 50-percentilen er 50% af børnene over og under kurven
 - På det norske vækstkort er percentilerne baseret på målinger af et stort antal raske børn i alle aldersgrupper
@@ -36,9 +41,10 @@ Percentiler:
 - Man har opdaget, at norske børn generelt er tyndere og højdere end tidligere og også tyndere og højere end det internationale gennemsnit
 - Udover højde- og vækstabeller kan barnets væksthastighed plottes på et skema
 - Før 1-årsalderen bør barnet have fundet sin egen kurve og derefter følge denne ved videre vækst
-</p>
+</details>
 
-Vækt: 
+<details><summary>Vægt:</summary>
+
 - De første dagene etter fødselen faller barnets vekt noe, som skyldes, at væsketapet er større enn inntaket
 - Normalt er vekttapet på 5-10% og er noe større for barn, som ammes, enn barn, som mottar kunstig ernæring
 - Barnets vekt er lavest ved nadir (bunnpunktet) 2-3 dager etter fødselen, og etter 7-10 dager er det tilbake på fødselsvekten igjen
@@ -51,8 +57,10 @@ Vækt:
 	| 10 kg	| 1 år |
 	| 20 kg	| 5 år |
 	| 30 kg	| 10 år |
+</details>
 
-Lengde/høyde:
+<details><summary>Længde/højde:</summary>
+
 - Fram til 2-årsalder registreres lengde, deretter registreres høyde
 - Følgende tommelfingerregler finnes for barnets høyde:
 	| Lengde/høyde |	Alder |
@@ -71,20 +79,23 @@ Lengde/høyde:
 - Vekstspurten inntreffer 1-3 år etter dette, og dette er den fasen etter fødselen, der lengdeveksten øker mest
 - Det er viktig å huske, at de individuelle variasjonene er store, og at gjentatte målinger, som viser en kurve, er mer verdifulle enn en enkelt måling av høyden
 - Andre målinger som også er av betydning er fx armspenn, hodeomkrets og sittehøyde
+</details>
 
-Beregning av høyde:
-- Det finnes flere enkle formler for utregning av hva barnets totale høyde kommer til å bli:
-	 Total høyde: $højde_("2-årsalder") x 2$
-	 Total høyde (jenter) = $(mors højde + fars højde – 13)/2$      (+/− 10 cm)
-	 Total høyde (gutter) =$(Mors hyde + fars hyde + 13)/2 , (+/− 10 cm)$
-- Dessuten kan total høyde beregnes ved å måle beinalder, som gjøres ved å ta et røntgenbilde av venstre håndledd og hånd, hvor beinvevet og epifyser undersøkes
-- På denne måten kan barnets gjenværende vekstpotensial beregnes
-- Imidlertid er standardavvikene store ved bruk av denne metoden
+<details open><summary>Beregning af højde:</summary>
 
-
-<br>
+- Det findes flere enkle formler for udregning af hvad barnets totale højde kommer til at blive:
+	 Total højde = $højde_{2-årsalder} x 2$
+	 Total højde (piger) = $\frac{højde_{mor} + højde_{far} – 13}{2} , (+/− 10 cm)$
+	 Total højde (drenge) = $\frac{højde_{mor} + højde_{far} + 13}{2} , (+/− 10 cm)$
+- Desuden kan total højde beregnes ved at måle knoglealder, som gøres ved at tage et rtg af ve håndled og hånd, hvor knoglevævet og epifyser undersøges
+- På den måde kan barnets gjenværende vækstpotentiale beregnes
+- Imidlertid er standardafvigelserne store ved brug af denne metode
+</details>
 
 </details>
+</details>
+
+<br>
 
 <details open>
 <summary>$${\color{#27bec4}\Huge{Nyfødte}}$$</summary>
