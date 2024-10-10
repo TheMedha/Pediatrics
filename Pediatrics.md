@@ -62,13 +62,13 @@ Nogen timer efter fødslen udføres en rutine US af alle nyfødte, som består a
 2. Reflekser:
    - Mororefleksen:
    		- Undersøkes ved å løfte barnets overkropp noen cm over madrassen og slippe det ned
-     - Barnet vil da typisk vise tre ting:
-       a) abduksjon av armer
-       b) adduksjon av armer
-       c) gråt
-		 - Palmarrefleksen: 
-		○ Kalles også griperefleksen og undersøkes ved å legge ens egne tomler inni barnets håndflater
-		○ Barnet vil normalt gripe om tomlene med en slik styrke, at det nesten kan løftes fra madrassen
+     	- Barnet vil da typisk vise tre ting:
+      	a) abduksjon av armer
+      	b) adduksjon av armer
+       	c) gråt
+		 	- Palmarrefleksen: 
+	 	- Kalles også griperefleksen og undersøkes ved å legge ens egne tomler inni barnets håndflater
+	 	- Barnet vil normalt gripe om tomlene med en slik styrke, at det nesten kan løftes fra madrassen
 	• Plantarrefleksen: 
 		○ Hos barn < 1 år er denne positiv annerledes enn hos voksne
 		○ Refleksen undersøkes ved å legge en finger like under tærne. Tærne vil da normalt flekteres. Deretter strykes fingeren nedover fotsålen, og det ses da, at tærne ekstenderes og abduseres, altså Babinskis tegn
