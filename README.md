@@ -1,5 +1,7 @@
 # Noter til 11. semester
-***OBS!*** Alle noter er fra Sabna's noter!
+
+$${\color{#7109c0}{\textbf{\large{OBS:}}}}$$
+`Alle noter er fra Sabna's noter!`
 
 **Oversættelser lavet herinde fra norsk til dansk:**
 - "Pædiatrisk undersøgelse"
@@ -8,7 +10,7 @@
 - Lidt på forsiden af "10. Præmaturitet"
 - Noget *meget* kort på forsiden af "12. Nyrer og urinveje"
 
-Resten ser ud til at være på **DANSK**, så de skal bare læses **direkte i OneNote!**
+`Resten ser ud til at være på` *DANSK*`, så de skal bare læses` *direkte i OneNote!*
 
 || Links ||
 |-|-|-|
