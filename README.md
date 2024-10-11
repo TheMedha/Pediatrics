@@ -1,4 +1,4 @@
-## $${\color{#005156}{\Huge{\textbf{N O T E R { }{ } T I L { }{ } 1 1. { }{ } S E M E S T E R}}}}$$
+# $${\color{#005156}{\Huge{\textbf{N O T E R { }{ } T I L { }{ } 1 1. { }{ } S E M E S T E R}}}}$$
 
 
 #### $${\color{#7109c0}{\textbf{\large{OBS:}}}}$$ *Alle noter er fra Sabna's noter!*
